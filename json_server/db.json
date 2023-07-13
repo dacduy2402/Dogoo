@@ -1,0 +1,22 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "fullName": "Nguyen Van A",
+        "class": "FS01",
+        "score": "A"
+      },
+      {
+        "id": 2,
+        "fullName": "Tran Van B",
+        "class": "FS01",
+        "score": "B"
+      },
+      {
+        "id": 3,
+        "fullName": "Vu Van C",
+        "class": "FS01",
+        "score": "D"
+      }
+    ]
+  }
